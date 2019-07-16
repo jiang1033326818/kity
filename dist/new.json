@@ -1,0 +1,352 @@
+{
+  "root": {
+    "data": {
+      "id": "ab24d0ea28ed",
+      "created": 1563159427,
+      "text": "组织结构图",
+      "progress": 1,
+      "expandState": "expand"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "bvjmf6oh0c80",
+          "created": 1563172547504,
+          "text": "奥术大师多",
+          "progress": 2,
+          "expandState": "expand",
+          "note": "萨达\n草他妈的\n",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bvjmg2or5js0",
+              "created": 1563172617178,
+              "text": "分支主题",
+              "expandState": "expand",
+              "layout": null
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bvjnvmf5yzs0",
+              "created": 1563176656706,
+              "text": "分支主题",
+              "expandState": "expand",
+              "layout": null
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bvjmfqgj6740",
+              "created": 1563172590560,
+              "text": "分支主题",
+              "priority": 4,
+              "expandState": "expand",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bvjmg37xl9s0",
+                  "created": 1563172618338,
+                  "text": "分支主题",
+                  "expandState": "expand",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bvjmg3qpvsw0",
+                      "created": 1563172619474,
+                      "text": "分支主题",
+                      "expandState": "expand",
+                      "layout": null
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "id": "bvjmg45akzk0",
+                          "created": 1563172620355,
+                          "text": "分支主题",
+                          "layout": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bvjmg3inma00",
+                  "created": 1563172618986,
+                  "text": "分支主题",
+                  "expandState": "expand",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bvjmg3xlw3k0",
+                      "created": 1563172619890,
+                      "text": "分支主题",
+                      "expandState": "collapse",
+                      "priority": 4,
+                      "layout": null
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "id": "bvjmg4cf2bk0",
+                          "created": 1563172620786,
+                          "text": "分支主题",
+                          "layout": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bvjpbrg70i00",
+          "created": 1563180742589,
+          "text": "864",
+          "expandState": "expand",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bvjnvnkz4hc0",
+              "created": 1563176659234,
+              "text": "分支主题",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bvjnvny7ezc0",
+                  "created": 1563176660034,
+                  "text": "分支主题",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bvjnvo3d82o0",
+                  "created": 1563176660346,
+                  "text": "分支主题",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bvjnvo91aps0",
+                  "created": 1563176660689,
+                  "text": "分支主题",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bvjnvoeigbs0",
+                      "created": 1563176661020,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjnvok7r4o0",
+                      "created": 1563176661365,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bvjnvmmt8y80",
+          "created": 1563176657169,
+          "text": "分支主题",
+          "expandState": "expand",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bvjnvmxobm00",
+              "created": 1563176657825,
+              "text": "分支主题",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bvjnvn5v7kw0",
+                  "created": 1563176658321,
+                  "text": "分支主题",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bvjnvndf0qo0",
+                      "created": 1563176658777,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bvjpc10mxdc0",
+          "created": 1563180763416,
+          "text": "分支主题",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bvjpc13f1p40",
+              "created": 1563180763584,
+              "text": "分支主题",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bvjpc16cyog0",
+                  "created": 1563180763762,
+                  "text": "分支主题",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bvjpc18ysc00",
+                      "created": 1563180763920,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "id": "bvjpc1c0k400",
+                          "created": 1563180764104,
+                          "text": "分支主题",
+                          "layout": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc40lq540",
+                      "created": 1563180769944,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc43ldgo0",
+                      "created": 1563180770125,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc46f4dk0",
+                      "created": 1563180770296,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc49gde00",
+                      "created": 1563180770480,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc4cfs0w0",
+                      "created": 1563180770660,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc4fa2i80",
+                      "created": 1563180770832,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc4i2b2o0",
+                      "created": 1563180771000,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bvjpc4ldhnk0",
+                      "created": 1563180771200,
+                      "text": "分支主题",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "template": "structure",
+  "theme": "fresh-blue",
+  "version": "1.4.43"
+}
